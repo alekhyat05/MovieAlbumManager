@@ -1,5 +1,6 @@
 # MovieAlbumManager
-
+Done by - Alekhya Tamarapalli
+student number - 8683028
 Git clone the project.
 Open a new terminal to proceed further.
 Ensure to stay at root folder in Terminal.
